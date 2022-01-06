@@ -1,5 +1,0 @@
-name: "validate-manifest"
-description: Validates the provided manifest file.
-runs:
-  using: "docker"
-  image: "Dockerfile"
